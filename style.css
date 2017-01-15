@@ -1,0 +1,62 @@
+
+
+ body {
+      background: url('codeBg-img.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      font-family: 'Ubuntu', sans-serif;
+   }
+
+/*style of content div*/
+.container {
+      width: 60%;
+      margin: auto;
+      text-align: center;
+   }
+
+h1 {
+      color: #fff;
+      font-size: 3em; /* 3 em = 50px more or less*/
+      margin-bottom: 0;
+      font-weight: normal;
+      margin-bottom: 0;
+}
+
+h2 {
+      color: #D7F1FA;
+      font-size: 1.5em;
+      margin-top: 0;
+}
+
+p {
+      color: #FAF9BE;
+      font-size: 1em;
+}
+
+/*style of biography paragraph*/
+.bio {
+      font-style: italic;
+      font-size: 1em;
+
+}
+
+/* style of my picture*/
+.me {
+      height: 30%;
+      border-radius: 100%;
+      border-style: solid; 
+      border-color: white;
+      margin-top: 2.2em;
+}
+
+/* style hr tag*/
+.grey {
+
+  height: 3px;
+  background-color: C9CFD1;
+  border: none;
+  width: 3em;
+
+}
